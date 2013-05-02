@@ -1,4 +1,4 @@
-// Generated on 2013-04-30 using generator-webapp 0.1.7
+// Generated on 2013-05-02 using generator-webapp 0.1.7
 'use strict';
 var lrSnippet = require('grunt-contrib-livereload/lib/utils').livereloadSnippet;
 var mountFolder = function (connect, dir) {
@@ -10,7 +10,6 @@ var mountFolder = function (connect, dir) {
 // 'test/spec/{,*/}*.js'
 // use this if you want to match all subfolders:
 // 'test/spec/**/*.js'
-
 
 module.exports = function (grunt) {
     // load all grunt tasks
