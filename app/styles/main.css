@@ -1,8 +1,17 @@
+html {
+	height: 100%;
+}
 body {
-    background: #fafafa;
+	margin: 0;
+	padding: 0;
+	height: 100%;
 }
 
-.hero-unit {
-    margin: 50px auto 0 auto;
-    width: 300px;
+html { 
+  background: url('../images/london.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	border : 1px #000000 solid;
 }

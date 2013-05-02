@@ -1,8 +1,9 @@
 {
-  "name": "photobloggers",
-  "version": "0.0.0",
+  "name": "blogmyphoto",
+  "version": "0.0.1",
   "dependencies": {
-		"express" : "2.x"
+		"express" : "2.x",
+		"handlebars" : "1.x"
 	},
   "devDependencies": {
     "grunt": "~0.4.1",
